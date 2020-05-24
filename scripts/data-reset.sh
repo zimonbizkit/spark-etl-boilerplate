@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+> ./../data/input.csv && echo "id,id_103,id_104,id_105,id_106,id_107,id_109,id_110,id_111,id_112,id_113,id_114,id_115,id_116,id_117,id_118_t_p,id_119_t_s,id_119_ft_p,id_119_ft_sid,id_103,id_104,id_105,id_106,id_107,id_109,id_110,id_111,id_112,id_113,id_114,id_115,id_116,id_117,id_118_t_p,id_119_t_s,id_119_ft_p,id_119_ft_s" >> ./../data/input.csv
